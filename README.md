@@ -94,6 +94,9 @@ python portfolio.py
   - Portfolio Optimization
   - Support Vector Machines
 
+## Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
 ## License
 
 This project is available for academic and educational purposes.
