@@ -1,6 +1,8 @@
 # Numerical Optimization Algorithm Implementations
 
-A comprehensive collection of classical optimization algorithms implemented in Python, including gradient descent, Newton's method, interior point methods (IPM), and specialized solvers for various optimization problems.
+A comprehensive collection of classical optimization algorithms implemented in Python, including gradient descent, Newton's method, interior point methods (IPM), and specialized solvers for various optimization problems.<br>
+<br>
+（成大工資系｜數值最佳化｜作業及專案）
 
 ## Overview
 
